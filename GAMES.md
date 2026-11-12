@@ -4,7 +4,7 @@
 
 ---
 
-### 💾 Встроенные в ПЗУ приставки (27C010 — 128 КБ) — [📥 Скачать ПЗУ](original/Original_ROM_27c010.zip)
+### 💾 Встроенные в ПЗУ приставки (27C010 — 128 КБ) — [📥 Скачать ПЗУ](https://raw.githubusercontent.com/san010101/alf-games/main/original/Original_ROM_27c010.zip)
 
 Стартовое меню приставки без встроенных игр (ПЗУ 27C256) и со встроенными играми (ПЗУ 27C010):
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-1» — [📥 Скачать архив (Alf-1_ROM.zip)](original/Alf-1_ROM.zip)
+### 📼 Картридж «Эльф-1» — [📥 Скачать архив (Alf-1_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-1_ROM.zip)
 
 <p><img src="_files/g24.gif" width="160"></p>
 
@@ -40,9 +40,9 @@
 
 ---
 
-### 📼 Картридж «Эльф-2» — [📥 Скачать архив (Alf-2_ROM.zip)](original/Alf-2_ROM.zip)
+### 📼 Картридж «Эльф-2» — [📥 Скачать архив (Alf-2_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-2_ROM.zip)
 
-Меню стандартного картриджа «Эльф-2» (4 игры) и второго варианта картриджа (с добавлением 3 игр из встроенного ПЗУ, [скачать Alf-2_1_ROM.zip](original/Alf-2_1_ROM.zip)):
+Меню стандартного картриджа «Эльф-2» (4 игры) и второго варианта картриджа (с добавлением 3 игр из встроенного ПЗУ, [скачать Alf-2_1_ROM.zip](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-2_1_ROM.zip)):
 
 <p>
   <img src="_files/g10.gif" width="160">
@@ -58,7 +58,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-3» — [📥 Скачать архив (Alf-3_ROM.zip)](original/Alf-3_ROM.zip)
+### 📼 Картридж «Эльф-3» — [📥 Скачать архив (Alf-3_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-3_ROM.zip)
 
 <p><img src="_files/g53.gif" width="160"></p>
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-4» — [📥 Скачать архив (Alf-4_ROM.zip)](original/Alf-4_ROM.zip)
+### 📼 Картридж «Эльф-4» — [📥 Скачать архив (Alf-4_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-4_ROM.zip)
 
 <p><img src="_files/g82.gif" width="160"></p>
 
@@ -90,7 +90,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-5» — [📥 Скачать архив (Alf-5_ROM.zip)](original/Alf-5_ROM.zip)
+### 📼 Картридж «Эльф-5» — [📥 Скачать архив (Alf-5_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-5_ROM.zip)
 
 <p><img src="_files/g83.gif" width="160"></p>
 
@@ -105,7 +105,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-6» — [📥 Скачать архив (Alf-6_ROM.zip)](original/Alf-6_ROM.zip)
+### 📼 Картридж «Эльф-6» — [📥 Скачать архив (Alf-6_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-6_ROM.zip)
 
 <p><img src="_files/g84.gif" width="160"></p>
 
@@ -120,7 +120,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-7» — [📥 Скачать архив (Alf-7_ROM.zip)](original/Alf-7_ROM.zip)
+### 📼 Картридж «Эльф-7» — [📥 Скачать архив (Alf-7_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-7_ROM.zip)
 
 <p><img src="_files/g85.gif" width="160"></p>
 
@@ -137,7 +137,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-8» — [📥 Скачать архив (Alf-8_ROM.zip)](original/Alf-8_ROM.zip)
+### 📼 Картридж «Эльф-8» — [📥 Скачать архив (Alf-8_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-8_ROM.zip)
 
 <p><img src="_files/g86.gif" width="160"></p>
 
@@ -153,7 +153,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-9» — [📥 Скачать архив (Alf-9_ROM.zip)](original/Alf-9_ROM.zip)
+### 📼 Картридж «Эльф-9» — [📥 Скачать архив (Alf-9_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-9_ROM.zip)
 
 <p><img src="_files/g87.gif" width="160"></p>
 
@@ -169,7 +169,7 @@
 
 ---
 
-### 📼 Картридж «Эльф-10» — [📥 Скачать архив (Alf-10_ROM.zip)](original/Alf-10_ROM.zip)
+### 📼 Картридж «Эльф-10» — [📥 Скачать архив (Alf-10_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf-10_ROM.zip)
 
 <p><img src="_files/g88.gif" width="160"></p>
 
@@ -185,7 +185,7 @@
 
 ---
 
-### 📼 Картридж-компиляция «Эльф 1-4» — [📥 Скачать архив (Alf1-4_ROM.zip)](original/Alf1-4_ROM.zip)
+### 📼 Картридж-компиляция «Эльф 1-4» — [📥 Скачать архив (Alf1-4_ROM.zip)](https://raw.githubusercontent.com/san010101/alf-games/main/original/Alf1-4_ROM.zip)
 
 <p>
   <img src="_files/alf70.gif" width="160">
